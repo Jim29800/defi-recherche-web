@@ -20,3 +20,20 @@ Quelle est la différence entre le Web et Internet ?
  >>>>>>>>>>>>>>>>>>>>>>>>>
 
  
+Qu’est-ce que cela :
+
+    8.8.8.8
+    192.168.0.1
+    255.255.255.0
+    127.0.0.1
+
+Des adresses IP
+    8.8.8.8			:DNS de GOOGLE
+    192.168.0.1		:Correspond généralement à l'IP d'un appareil en LAN
+    255.255.255.0	:Masque de Sous réseaux
+    127.0.0.1		:Adresse IP de la carte réseau sur la machine actuel
+
+Source : N/A
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
