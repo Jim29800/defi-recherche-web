@@ -104,6 +104,8 @@ Quels sont les prochains rendez-vous tech de Toulouse ?
 
 Mardi 11 juillet : Discuter Python, PyconFR, boire un coup!
 
+source : meetup
+
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 Qui est Aaron Swartz ?
@@ -111,13 +113,41 @@ Qui est Aaron Swartz ?
 C'était un informaticien, écrivain, meneur politique et hacktiviste américain.
 Il a développé le format de flux RSS.
 
+Source Wikipédia
+
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 Qu’est-ce que le projet GNU ?
 
 GNU est un système d'exploitation constitué de logiciel libre.
 
+source : gnu.org
+
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
+
+Quelles sont les différences entre le Http et le Https ?
+
+Le HTTP permet de :
+    recevoir des informations des serveurs web (serveurs http).
+    d’envoyer des informations vers les serveurs web.
+ Ces échanges se sont font sans aucun cryptage.
+
+Le protocole HTTPS a été créé pour pallier aux défauts de l’http, il est composé de 2 protocoles :
+
+    le protocole http
+    le protocole ssl : c’est lui qui donne le S au protocole httpS (S pour Secure)
+
+source : culture-informatique.net
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Qui est Richard Stallman ?
+
+C'est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU.
+
+source : wikipedia
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
