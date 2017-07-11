@@ -1,10 +1,9 @@
 Par qui, quand, pourquoi et où a été inventé Internet ?
 
 Qui ? 		Les origines exactes du terme « Internet » restent à déterminer. 
-Quand ?		Toutefois, c'est le 1er janvier 1983 que le nom « Internet », déjà en usage pour désigner l'ensemble 
+Quand ?		C'est le 1er janvier 1983 que le nom « Internet », déjà en usage pour désigner l'ensemble 
 			d'ARPANET et plusieurs réseaux informatiques, est devenu officiel.
-Où ? 		ARPANET ou Arpanet (acronyme anglais de « Advanced Research Projects Agency Network », souvent typographié 
-			« ARPAnet »1) est le premier réseau à transfert de paquets développé aux États-Unis par la DARPA.
+Où ? 		ARPANET ou Arpanet est le premier réseau à transfert de paquets développé aux États-Unis par la DARPA.
 
 Source : Wikipédia
 
@@ -13,7 +12,7 @@ Source : Wikipédia
 Quelle est la différence entre le Web et Internet ?
 
  Internet est un réseau par lequel transitent des données
- Le web correspond à une des applications utilisant ce réseau. Le web est un système de publication et de consultation de documents (textes, sons, images) faisant appel aux techniques HTML, URL, HTTP...
+ Le web correspond à une des applications utilisant ce réseau. Le web est un système de publication et de consultation de documents faisant appel aux techniques HTML, URL, HTTP...
 
  Source : service-public.fr
 
@@ -34,6 +33,23 @@ Des adresses IP
     127.0.0.1		:Adresse IP de la carte réseau sur la machine actuel
 
 Source : N/A
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Que sont le copyright et le copyleft ?
+
+Le copyright:
+
+Droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.
+Marque de ce droit par le symbole © suivi du nom du titulaire du droit d'auteur et de l'indication de l'année de première publication.
+
+Source : larousse.fr
+
+Copyleft :
+
+Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+
+Source : gnu.org
 
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
