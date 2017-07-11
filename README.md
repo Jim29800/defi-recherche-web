@@ -85,3 +85,39 @@ Source Wikipédia
 
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
+D'où vient l'expression "bug informatique" ?
+
+Le mot anglais bug appartient au jargon des ingénieurs de matériel et représentant les problèmes qui y survenaient. L’utilisation du terme pour décrire les défauts de systèmes mécaniques date d’au moins avant les années 1870.
+
+Source Wikipédia
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+Google Developer Group Toulouse
+TAUG Toulouse Android User Group
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Quels sont les prochains rendez-vous tech de Toulouse ?
+
+Mardi 11 juillet : Discuter Python, PyconFR, boire un coup!
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Qui est Aaron Swartz ?
+
+C'était un informaticien, écrivain, meneur politique et hacktiviste américain.
+Il a développé le format de flux RSS.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Qu’est-ce que le projet GNU ?
+
+GNU est un système d'exploitation constitué de logiciel libre.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
