@@ -61,3 +61,27 @@ Que sont les Creatives Commons ?
 
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
+Qui est Grace Hopper ?
+
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+
+ Souce : Wikipedia
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Qu'est-ce que Qwant ?
+
+Qwant est un moteur de recherche français.
+
+ Souce : Qwant / Wikipedia
+
+ >>>>>>>>>>>>>>>>>>>>>>>>>
+
+Qui est Steve Wozniak ?
+
+Il est le cofondateur de apple.
+
+Source Wikipédia
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
